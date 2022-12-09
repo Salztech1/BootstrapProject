@@ -1,5 +1,5 @@
 .div1 {
-    background-image: url("./Datagir\ lwood\ image.png");
+    background-image: url("./bootimage/Datagir\ lwood\ image.png");
     padding: 15%;
 
 }
@@ -55,7 +55,7 @@
         padding: 1%;
 
     }
-    body{background-image:url(./water.png);
+    body{background-image:url(./bootimage/water.png);
     background-position: top;
     background-size: cover;
     }
