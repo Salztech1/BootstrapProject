@@ -1,0 +1,67 @@
+.div1 {
+    background-image: url("./Datagir\ lwood\ image.png");
+    padding: 15%;
+
+}
+.diva{margin-left: 20%;
+    margin-bottom: 10%;
+    width: 25%;}
+    .img1{
+        width: 25%;
+    }
+    .bg-pink {
+        background-color: #e4046b;
+        border-radius: 20px;
+    }
+    .visit:hover {
+        background-color: rgb(9, 9, 70);
+    }
+    .visit2:hover {
+        background-color: black;
+    }
+    
+    .text-pink {
+        color: #e4046b;
+    }
+    
+    .div2 {
+        width: 90%;
+    
+    }
+    .lin{border-radius: 5%;
+        margin-left: 3%;
+    }
+    .div4 {
+        border-radius: 5%;
+    }
+    
+    .div5 {
+        border-radius: 5%;
+        margin-left: 2%;
+    }
+    .divi {
+        border-radius: 60px;
+        margin-left: 45%;
+        width: 10%;
+    }
+    
+    .divi2 {
+        border-radius: 60px;
+        margin-left: 45%;
+        width: 10%;
+    }
+    
+    .but{background-color: #e4046b;
+        padding: 1%;
+
+    }
+    body{background-image:url(./water.png);
+    background-position: top;
+    background-size: cover;
+    }
+    
+    
+
+
+
+    
